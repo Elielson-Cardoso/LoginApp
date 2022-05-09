@@ -12,7 +12,7 @@
             <Entry x:Name="txtSenha" Placeholder= "Senha" IsPassword="True" PlaceholderColor = "Gray"></Entry>
             <Button
                 VerticalOptions="Center"
-                Text="Login"
+                Text="Entrar"
                 TextColor="White"
                 BackgroundColor="Transparent"
                 BorderColor="ForestGreen"

@@ -19,7 +19,7 @@ namespace Login
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            if (txtNome.Text == "elielson" && txtSenha.Text == "123")
+            if (txtNome.Text == "eli" && txtSenha.Text == "123")
             {
                 Navigation.PushAsync(new HomePage());
             }
