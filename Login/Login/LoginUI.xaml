@@ -8,7 +8,7 @@
 
             <Image Source="logo_plasutil" WidthRequest="180" HeightRequest="180"></Image>
             
-            <Entry x:Name="txtNome"  Placeholder= "Nome" TextColor="White" PlaceholderColor = "Gray"></Entry>
+            <Entry x:Name="txtNome"  Placeholder= "Usuário" TextColor="White" PlaceholderColor = "Gray"></Entry>
             <Entry x:Name="txtSenha" Placeholder= "Senha" IsPassword="True" PlaceholderColor = "Gray"></Entry>
             <Button
                 VerticalOptions="Center"
