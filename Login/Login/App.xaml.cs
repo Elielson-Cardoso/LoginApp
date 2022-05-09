@@ -12,7 +12,7 @@ namespace Login
             InitializeComponent();
 
             //MainPage = new MainPage();
-            MainPage = new LoginUI();
+            MainPage = new NavigationPage(new LoginUI());
         }
 
         protected override void OnStart()
